@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import './dark_mode.dart';
+import 'utils/dark_mode.dart';
 
 void main() => runApp(MyApp());
 
